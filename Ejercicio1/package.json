@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "Primera entrega",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node saludar.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ejercicio1"
+  ],
+  "author": "Gerson Ramos Gonzalez",
+  "license": "ISC"
+}

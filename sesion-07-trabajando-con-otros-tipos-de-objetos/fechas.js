@@ -19,7 +19,7 @@ const fecha5 = new Date(1987,10,20,1,23,52,192);
 console.log(fecha5);
 
 console.log(fecha5 === fecha2); //ERROR no se pueden comparar fechas de esta forma
-console.log(fecha5.getTime() === fecha2.getTime()); // Esat es la forma de comparar fechas
+console.log(fecha5.getTime() === fecha2.getTime()); // Esta es la forma de comparar fechas
 
 ////////////////////// Obtener el dia, el mes y el año de una fecha
 // obtener el dia .getDate()
